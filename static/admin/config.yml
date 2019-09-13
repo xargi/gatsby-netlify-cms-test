@@ -3,6 +3,7 @@ backend:
   repo: xargi/gatsby-netlify-cms-test
   branch: master
 
+publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
 
