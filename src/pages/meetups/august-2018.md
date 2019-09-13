@@ -1,7 +1,7 @@
 ---
 templateKey: meetup
 title: August 2018
-date: 2018-08-14T23:00:00.000Z
+date: 2018-08-15T23:00:00.000Z
 presenters:
   - image: /img/marius-ciocirlan-398931-unsplash.jpg
     name: Ben Wilson
