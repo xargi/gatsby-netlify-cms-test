@@ -4,10 +4,7 @@
   "version": "1.1.3",
   "author": "Robert Cooper",
   "dependencies": {
-    "@types/googlemaps": "^3.37.6",
-    "@types/markerclustererplus": "^2.1.33",
     "date-fns": "^1.29.0",
-    "eslint-plugin-flowtype": "^2.50.3",
     "gatsby": "^2.0.0",
     "gatsby-plugin-favicon": "^3.1.4",
     "gatsby-plugin-netlify": "^2.0.0",
@@ -21,7 +18,7 @@
     "gatsby-transformer-sharp": "^2.1.1",
     "lodash": "^4.17.5",
     "lodash-webpack-plugin": "^0.11.4",
-    "netlify-cms": "^2.9.7",
+    "netlify-cms": "^2.9.0",
     "node-sass": "^4.9.2",
     "parcel-bundler": "^1.9.4",
     "prop-types": "^15.6.0",
@@ -30,9 +27,6 @@
     "react-google-maps": "^9.4.5",
     "react-helmet": "^5.2.0",
     "react-markdown": "^4.0.3",
-    "redux": "^3.7.2",
-    "slate": "^0.33.8",
-    "typescript": "^3.6.3",
     "uuid": "^3.2.1"
   },
   "keywords": [
