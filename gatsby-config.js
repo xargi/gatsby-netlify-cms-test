@@ -34,9 +34,15 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-favicon`,
+      resolve: `gatsby-plugin-manifest`,
       options: {
-        logo: "./src/img/favicon.png",
+        name: `Wakanda JS`,
+        short_name: `WJS`,
+        start_url: `/`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
+	icon: "src/img/favicon.png"
       },
     },
     "gatsby-plugin-netlify", // make sure to keep it last in the array
