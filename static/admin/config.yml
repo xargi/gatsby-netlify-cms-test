@@ -2,6 +2,7 @@ backend:
   name: github
   repo: xargi/gatsby-netlify-cms-test
   branch: master
+  open_authoring: true
 
 publish_mode: editorial_workflow
 media_folder: static/img
