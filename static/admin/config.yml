@@ -8,7 +8,7 @@ publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
 
-display_url: https://gatsby-netlify-cms-example.netlify.com/
+display_url: https://eloquent-mirzakhani-fabfa7.netlify.com
 
 collections:
   - name: "meetups"
